@@ -7,14 +7,16 @@ DATE: 10/2/2016
 */ 
 
 head {
-	font-size: 20px; 
-	
+    font-size: 20px; 
     padding-top: 50px;
     padding-right: 200px;
     padding-bottom: 50px;
     padding-left: 200px;
 }
 
+h1{
+	font-family: 'Pacifico', cursive;
+}
 
 body {
 
@@ -22,9 +24,9 @@ body {
 	font-family: 'Neucha', cursive;
 	background-image: url(congruent_pentagon.png);
 	padding-top: 50px;
-    padding-right: 200px;
-    padding-bottom: 50px;
-    padding-left: 200px;
+        padding-right: 200px;
+        padding-bottom: 50px;
+        padding-left: 200px;
 }
 
 div {
